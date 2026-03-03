@@ -1,11 +1,11 @@
-# 💻 C Programs — Tatah Whitney
+# C Programs — Tatah Whitney
 
 A growing collection of C programs covering algorithms, data structures, system utilities, and problem solving.  
 Built as part of my journey to master systems programming and computer science fundamentals.
 
 ---
 
-## 📂 Structure
+## Structure
 ```
 c-programs/
 │
@@ -16,7 +16,7 @@ c-programs/
 └── utilities/       → Practical tools and system programs
 ```
 
-## 📋 Programs List
+## Programs List
 
 | File | Description | Category |
 |------|-------------|----------|
@@ -26,7 +26,7 @@ c-programs/
 
 ---
 
-## 🛠️ How to Compile & Run
+## How to Compile & Run
 
 Make sure you have GCC installed.
 ```bash
@@ -39,7 +39,7 @@ filename.exe
 
 ---
 
-## 🎯 Goals
+## Goals
 
 - Build a strong foundation in C programming
 - Implement classic algorithms from scratch
@@ -55,7 +55,7 @@ GitHub: [tatahwithney](https://github.com/tatahwithney)
 
 ---
 
-## 📜 License
+## License
 
 MIT License — feel free to study and learn from this code.  
 See [LICENSE](./LICENSE) for details.

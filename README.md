@@ -1,4 +1,4 @@
-# C Programs — Tatah Whitney
+# C Programs — Tatah Withney
 
 A growing collection of C programs covering algorithms, data structures, system utilities, and problem solving.  
 Built as part of my journey to master systems programming and computer science fundamentals.
@@ -50,7 +50,7 @@ filename.exe
 
 ## 👤 Author
 
-**Tatah Whitney**  
+**Tatah Withney**  
 GitHub: [tatahwithney](https://github.com/tatahwithney)  
 
 ---

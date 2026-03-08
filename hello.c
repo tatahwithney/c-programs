@@ -1,5 +1,5 @@
 /*
- * Project: c-programs/hello.c
+ * Project: Hello GitHub
  * Author:  Tatah Withney
  * GitHub:  github.com/tatahwithney
  * License: MIT

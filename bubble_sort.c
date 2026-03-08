@@ -1,3 +1,14 @@
+/*
+ * Project:     Binary sorting 
+ * Author:      Tatah Withney
+ * GitHub:      github.com/tatahwithney
+ * License:     MIT
+ * Date:        04-03-26
+ * Description: Arrange a list of numbers in ascending order using bubble sort algorithm
+ *              generated number between 1 and 100
+ *              best evealutaion time use binary search algorithm 
+ *              The algorithm repeatedly steps through the list, compares adjacent elements and swaps them if they are in the wrong order. The process is repeated until the list is sorted.  
+ */
 #include <stdio.h>
 
 void bubbleSort(int arr[], int n) {

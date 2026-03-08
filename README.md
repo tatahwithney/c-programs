@@ -14,6 +14,7 @@ Built as part of my journey to master systems programming and computer science f
 | [number_guessing_game.c](./number_guessing_game.c) | Number guessing game with score tracking | Utilities |
 | [swap.c](./swap.c) | ALgorithm for swapping 2 integers implementation | Utilities |
 
+
 > More programs added regularly.
 
 ---

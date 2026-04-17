@@ -13,6 +13,7 @@ Built as part of my journey to master systems programming and computer science f
 | [bubble_sort.c](./bubble_sort.c) | Bubble sort algorithm implementation | Algorithms |
 | [number_guessing_game.c](./number_guessing_game.c) | Number guessing game with score tracking | Utilities |
 | [swap.c](./swap.c) | ALgorithm for swapping 2 integers implementation | Utilities |
+| [euclidean.c](./euclidean.c) | Euclidean algorithm for GCD | Algorithms |
 
 
 > More programs added regularly.

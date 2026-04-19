@@ -1,0 +1,69 @@
+C Programming Daily Practice List
+=================================
+
+Week 1-2: Basics
+----------------
+Day 1  - Hello World
+Day 2  - Calculator (add, sub, mul, div)
+Day 3  - Leap year checker
+Day 4  - Even/Odd checker
+Day 5  - Max of 3 numbers
+Day 6  - Swap two numbers
+Day 7  - Area of circle
+
+Week 3-4: Control Flow
+--------------------
+Day 8  - Factorial
+Day 9  - Fibonacci sequence
+Day 10 - Power of a number
+Day 11 - Sum of digits
+Day 12 - Reverse a number
+Day 13 - Palindrome checker
+Day 14 - Armstrong number
+
+Week 5-6: Algorithms
+-------------------
+Day 15 - Bubble sort (done)
+Day 16 - Linear search
+Day 17 - Binary search
+Day 18 - Prime sieve (done)
+Day 19 - GCD/LCM (done)
+Day 20 - Insertion sort
+Day 21 - Selection sort
+
+Week 7-8: Data Structures
+-----------------------
+Day 22 - Stack implementation
+Day 23 - Queue implementation
+Day 24 - Linked list
+Day 25 - Doubly linked list
+Day 26 - Binary search tree
+Day 27 - Stack using array
+Day 28 - Queue using array
+
+Week 9-10: Problem Solving
+--------------------------
+Day 29 - Array operations
+Day 30 - Matrix addition
+Day 31 - Matrix multiplication
+Day 32 - String length
+Day 33 - String reversal
+Day 34 - String concatenation
+Day 35 - Anagram checker
+
+Week 11-12: Advanced
+-------------------
+Day 36 - Merge sort
+Day 37 - Quick sort
+Day 38 - Depth first search
+Day 39 - Breadth first search
+Day 40 - Dynamic programming basics
+Day 41 - Recursion problems
+Day 42 - File handling basics
+
+Notes:
+------
+- One program per day
+- Push to GitHub daily for green contribution graph
+- Start with Basics if new to C
+- Review and improve existing programs

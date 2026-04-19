@@ -14,6 +14,7 @@ Built as part of my journey to master systems programming and computer science f
 | [number_guessing_game.c](./number_guessing_game.c) | Number guessing game with score tracking | Utilities |
 | [swap.c](./swap.c) | ALgorithm for swapping 2 integers implementation | Utilities |
 | [euclidean.c](./euclidean.c) | Euclidean algorithm for GCD | Algorithms |
+| [sieve.c](./sieve.c) | Sieve of Eratosthenes for prime numbers | Algorithms |
 
 
 > More programs added regularly.

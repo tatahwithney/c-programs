@@ -16,6 +16,7 @@ Built as part of my journey to master systems programming and computer science f
 | [swap.c](./swap.c) | ALgorithm for swapping 2 integers implementation | Utilities |
 | [euclidean.c](./euclidean.c) | Euclidean algorithm for GCD | Algorithms |
 | [sieve.c](./sieve.c) | Sieve of Eratosthenes for prime numbers | Algorithms |
+| [dna_to_mrna.c](./dna_to_mrna.c) | DNA to mRNA transcription | Biology |
 
 
 > More programs added regularly.

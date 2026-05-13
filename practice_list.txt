@@ -6,7 +6,7 @@ Week 1-2: Basics
 Day 1  - Hello World
 Day 2  - Calculator (add, sub, mul, div)
 Day 3  - Leap year checker (done)
-Day 4  - Even/Odd checker
+Day 4  - Even/Odd checker (done)
 Day 5  - Max of 3 numbers
 Day 6  - Swap two numbers
 Day 7  - Area of circle

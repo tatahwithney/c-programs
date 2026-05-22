@@ -13,9 +13,9 @@ Built as part of my journey to master systems programming and computer science f
 | [calculator.c](./calculator.c) | Simple calculator (add, sub, mul, div) | Basics |
 | [leap_year.c](./leap_year.c) | Leap year checker | Basics |
 | [even_odd.c](./even_odd.c) | Even/Odd number checker | Basics |
-| [bubble_sort.c](./bubble_sort.c) | Bubble sort algorithm implementation | Algorithms |
-| [number_guessing_game.c](./number_guessing_game.c) | Number guessing game with score tracking | Utilities |
-| [swap.c](./swap.c) | ALgorithm for swapping 2 integers implementation | Utilities |
+| [max_of_three.c](./max_of_three.c) | Maximum of three numbers | Basics |
+| [swap.c](./swap.c) | Swap two integers | Basics |
+| [area_of_circle.c](./area_of_circle.c) | Area of circle | Basics |
 | [euclidean.c](./euclidean.c) | Euclidean algorithm for GCD | Algorithms |
 | [sieve.c](./sieve.c) | Sieve of Eratosthenes for prime numbers | Algorithms |
 | [dna_to_mrna.c](./dna_to_mrna.c) | DNA to mRNA transcription | Biology |

@@ -13,30 +13,30 @@ Day 7  - Area of circle (done)
 
 Week 3-4: Control Flow
 --------------------
-Day 8  - Factorial
-Day 9  - Fibonacci sequence
-Day 10 - Power of a number
-Day 11 - Sum of digits
-Day 12 - Reverse a number
-Day 13 - Palindrome checker
-Day 14 - Armstrong number
+Day 8  - Factorial (done)
+Day 9  - Fibonacci sequence (done)
+Day 10 - Power of a number (done)
+Day 11 - Sum of digits (done)
+Day 12 - Reverse a number (done)
+Day 13 - Palindrome checker (done)
+Day 14 - Armstrong number (done)
 
 Week 5-6: Algorithms
 -------------------
 Day 15 - Bubble sort (done)
-Day 16 - Linear search
-Day 17 - Binary search
+Day 16 - Linear search (done)
+Day 17 - Binary search (done)
 Day 18 - Prime sieve (done)
 Day 19 - GCD/LCM (done)
-Day 20 - Insertion sort
-Day 21 - Selection sort
+Day 20 - Insertion sort (done)
+Day 21 - Selection sort (done)
 
 Week 7-8: Data Structures
 -----------------------
-Day 22 - Stack implementation
-Day 23 - Queue implementation
-Day 24 - Linked list
-Day 25 - Doubly linked list
+Day 22 - Stack implementation (done)
+Day 23 - Queue implementation (done)
+Day 24 - Linked list (done)
+Day 25 - Doubly linked list (done)
 Day 26 - Binary search tree
 Day 27 - Stack using array
 Day 28 - Queue using array
